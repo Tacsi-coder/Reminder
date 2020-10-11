@@ -14,6 +14,8 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import static com.example.kyle.reminder.ReminderType.*;
+
 public class MainActivity extends AppCompatActivity {
 
   private TextView mNavTitle;
